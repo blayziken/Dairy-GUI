@@ -1,3 +1,3 @@
 # Dairy GUI
 
-A simple Graphical User Inteface Dairy made with Python and MySQL
+A simple Graphical User Inteface Dairy made with PythonTkinter and MySQL
